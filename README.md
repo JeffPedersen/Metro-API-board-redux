@@ -7,9 +7,14 @@ Creating the metro api board from scratch
 
 [ ] node.js
 
+[ ] Order dot matrix board
+
+[ ] Order quality power cord
+
 # References
 https://github.com/metro-sign/dc-metro
 https://github.com/erikrrodriguez/dc-metro
+https://github.com/ddworken/pyWMATA
 
 # Hardware
 https://www.adafruit.com/product/4745
